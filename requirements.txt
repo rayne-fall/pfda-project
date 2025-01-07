@@ -1,0 +1,5 @@
+pandas
+NumPy
+Matplotlib - matplotlib.pyplot
+             matplotlib.dates
+             maptlotlib.widgets (Button is the only widget required)
