@@ -6,6 +6,7 @@ This repository contains my project work for the Autumn 2024 Programming for Dat
 
 - [project.iynb](project.ipynb): A Jupyter notebook containing my analysis of windspeed data and windfarming in Co. Wexford.
 - [hly1775.csv](hly1775.csv): A CSV file containing weather data recorded at the Johnstown Castle weather station in Co. Wexford between 12 August 2003 and 1 December 2024.
+- [WindFarmsConnectedJune2022](WindFarmsConnectedJune2022): A CSV file listing the number of connected windfarms in Ireland as of June 2022.
 - [mean-windspeed-plot.py](mean-windspeed-plot.py): A Python script which loads the data from [hly1775.csv](hly1775.csv) and outputs a scrollable plot showing the mean daily windspeed.
 - [requirements.txt](requirements.txt): A text file listing the required modules for running the Jupyter notebook and Python script.
 
@@ -40,4 +41,4 @@ The contents of the repository can be run either locally using [Anaconda](https:
 1. https://www.thewindpower.net/windfarm_en_411_carnsore.php (Carnsore Point windfarm details)
 1. https://www.geeksforgeeks.org/python-scroll-through-plots/ (how to make plots scrollable)
 1. https://seaiopendata.blob.core.windows.net/wind/WindFarmsConnectedJune2022.csv (list of windfarms in Ireland)
-1. https://data.gov.ie/dataset/wind-farms-in-ireland (explanation of cuations to be noted when referencing list of windfarms)
+1. https://data.gov.ie/dataset/wind-farms-in-ireland (explanation of cautions to be noted when referencing list of windfarms)
