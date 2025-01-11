@@ -10,7 +10,6 @@ This repository contains my project work for the Autumn 2024 Programming for Dat
 - [mean-windspeed-plot.py](mean-windspeed-plot.py): A Python script which loads the data from [hly1775.csv](hly1775.csv) and outputs a scrollable plot showing the mean daily windspeed.
 - [requirements.txt](requirements.txt): A text file listing the required modules for running the Jupyter notebook and Python script.
 
-
 ## Running the programs
 
 The contents of the repository can be run either locally using [Anaconda](https://www.anaconda.com/download) and [Visual Studio Code](https://code.visualstudio.com/) or online using [GitHub Codespaces](https://github.com/features/codespaces). 
@@ -42,3 +41,4 @@ The contents of the repository can be run either locally using [Anaconda](https:
 1. https://www.geeksforgeeks.org/python-scroll-through-plots/ (how to make plots scrollable)
 1. https://seaiopendata.blob.core.windows.net/wind/WindFarmsConnectedJune2022.csv (list of windfarms in Ireland)
 1. https://data.gov.ie/dataset/wind-farms-in-ireland (explanation of cautions to be noted when referencing list of windfarms)
+1. https://scikit-learn.org/stable/modules/neighbors.html#classification (scikit-learn documentation)

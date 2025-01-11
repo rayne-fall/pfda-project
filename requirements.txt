@@ -3,3 +3,5 @@ NumPy
 Matplotlib - matplotlib.pyplot
              matplotlib.dates
              maptlotlib.widgets (Button is the only widget required)
+scikit_learn - sklearn.neighbors (NeighborhoodComponentsAnalysis and KNeighborsClassifier)
+               sklearn.pipeline (Pipeline)
