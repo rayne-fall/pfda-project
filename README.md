@@ -29,6 +29,7 @@ The contents of the repository can be run either locally using [Anaconda](https:
 
 ## Known issues
 1. [mean-windspeed-plot.py](mean-windspeed-plot.py) is intended to output a scrollable version of plot 4.1 from [project.iynb](project.ipynb). However, the "Previous" and "Next" buttons are currently non-functional, with the plot only able to display the first hundred datapoints as a result.
+1. Section 5 of [project.iynb](project.ipynb) contains a machine learning element trained on windspeed data from 12 August 2023 to 31 October 2024 and intended to predict the mean daily windspeed figures for November 2024. This code is currently non-functional.
 
 ## References
 1. https://www.met.ie/climate/available-data/historical-data (original source for data)
